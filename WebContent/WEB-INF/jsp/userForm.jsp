@@ -32,8 +32,8 @@
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
 				<form:option value="1" label="IND" />
-				<form:option value="2" label="JPN" />
-				<form:option value="3" label="USA" />
+				<form:option value="2" label="PAK" />
+				<form:option value="3" label="AFG" />
 				<form:option value="4" label="UK" />
 			</form:select></td>
 		</tr>
